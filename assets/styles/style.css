@@ -1,0 +1,38 @@
+body {
+	background: url(../images/bg.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	font-family: 'Righteous', cursive;
+	text-align: center;
+	
+}
+
+h1 {
+	color: white;
+	font-size: 60px;
+	font-weiht: normal;
+	margin-bottom: 0;	
+}
+
+h2 {
+	color: white;
+	font-size: 30px;
+	margin-top: 0;
+}
+
+.bio {
+	color: white;
+	font-size: 20px;
+	
+}
+
+.me {
+	height: 150px;
+	border-radius: 100%;
+	border-style: solid;
+	border-color: white;
+	margin-top: 40px;
+	
+}
